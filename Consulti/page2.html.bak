@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulti</title>
+<link rel="stylesheet" href="p2style.css">
+</head>
+<body> 
+    <img onclick="window.location.href='Welcome.html'" class="logo" src="logo.png" alt="Consulti">
+    <input class="button-1" type="button" onclick="window.location.href='Sign.html'" value="Student">
+    <input class="button-2" type="button" onclick="window.location.href='Sign.html'" value="Patient">
+    <input  id="what" class="button-3" type="button" onclick="window.location.href='Sign.html'" value="Doctor">
+	<script>
+	x=false;
+	
+	if(html.getElementById(what)=true){
+	x=true;
+	
+	};
+	if (x=true){
+	<input onclick="window.location.href='coming.html">;
+	}
+	
+	
+	</script>
+</body>
+</html>
